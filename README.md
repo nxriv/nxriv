@@ -13,12 +13,12 @@
   
   [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/) &nbsp;&nbsp;
   [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/nxriv) &nbsp;&nbsp;
-  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:dreamoverwatch@gmail.com)
+  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:nicholas.rivx0r@gmail.com)
  
 </p>
       </td>   
      <td>
-      <img src="https://files.catbox.moe/e1pjd2.jpeg" width="500">
+      <img src="https://files.catbox.moe/882ky6.png" width="500">
      </td>
    </tr>
 </table>
