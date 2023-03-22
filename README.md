@@ -6,7 +6,7 @@
       <ul>
         <li>cyber security enthusiast</li>
         <li>i love java</li>
-        <li>computers is my passion</li>
+        <li>computers</li>
       </ul>  
      <h2> communication. </h2>
         <p float="left">
