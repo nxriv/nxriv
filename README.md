@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1> hi, im nick. </h1>
-      <b>fourth year majoring in cybersecurity & networking @ champlain college</b>
+      <b>cybersecurity & networking grad</b>
       <ul>
         <li>cyber security enthusiast</li>
         <li>i love java</li>
